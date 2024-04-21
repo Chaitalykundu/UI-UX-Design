@@ -2,12 +2,16 @@
 
 Source : [FreeCodeCamp](https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/)
 
+[FreeCodeCamp youtube video](https://www.youtube.com/watch?v=jwCmIBJ8Jtc)
+
+[Youtube video by Ansh Mishra](https://www.youtube.com/watch?v=bI6q16ffdgQ)
+
 &nbsp;
 
 | Topic                                               | Status |
 | --------------------------------------------------- | ------ |
-| Creating a Figma Account                            |        |
-| Creating & Naming a Figma Design File               |        |
+| Creating a Figma Account                            | Done   |
+| Creating & Naming a Figma Design File               | Done   |
 | Creating Shapes in Figma                            |        |
 | Selection in Figma                                  |        |
 | Editing Shapes in Figma                             |        |
